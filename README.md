@@ -1,4 +1,4 @@
-# LycorisMonitor
+# StreamerMonitor
 
 Мониторинг стримеров на платформе Trovo с уведомлениями в Telegram.
 
